@@ -18,11 +18,11 @@
     display: none;
   }
 
-  .mainFirst {
-    background: url("/public/favicon.ico") no-repeat;
+  body {
+    background: url("/public/bg1.webp") no-repeat;
     display: block;
     width: auto;
-    height: auto;
+    height: 100%;
     background-size: cover;
     background-position: left center;
   }

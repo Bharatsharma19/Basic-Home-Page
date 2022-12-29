@@ -62,7 +62,7 @@ function App() {
 
   return (
     <>
-      <div className="mainFirst" style={{ overflowY: "hidden" }}>
+      <body className="mainFirst" style={{ overflowY: "hidden" }}>
         <video
           ref={vidRef}
           loop
@@ -114,7 +114,7 @@ function App() {
             </div>
           </div>
         </div>
-      </div>
+      </body>
     </>
   );
 }
