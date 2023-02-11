@@ -90,7 +90,7 @@ function App() {
                 }}
                 id="main1"
               >
-                Welcome to MobileComm
+                Welcome
               </h1>
             </div>
             <div
